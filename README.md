@@ -9,7 +9,8 @@
 
 <div>
   <a href="https://github.com/mclararibeiro">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mclararibeiro&show_icons=true&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mclararibeiro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mclararibeiro&show_icons=true&theme=dracula"/>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
  
