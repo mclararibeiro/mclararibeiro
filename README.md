@@ -2,17 +2,20 @@
 
 
 - 🔭 Estou aberta para trabalho
-- 🌱 Sou formada em Administração e estou em migração de carreira para área de dados
+- 🌱 Sou formada em Administração pela UFRN e estou em migração de carreira para área de dados
+- 💻 Formada no curso de Python e Dados, pela Ada Tech em parceria com a Suzano
 - 💻 Hard Skills: Python, SQL, Power BI
-- 📫 Me contate pelo email: eumariaclara5@gmail.com
 - 😄 Pronome: ela/dela
 
-<div>
-  <a href="https://github.com/mclararibeiro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mclararibeiro&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mclararibeiro&show_icons=true&theme=dracula"/>
+ <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mclararibeiro&s&theme=dracula)">
+ 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/> 
+           
+          
+          
+          
+ 
  
             
  
